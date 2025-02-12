@@ -11,7 +11,7 @@
 <div align="left">
   <img src="https://bashlogo.com/img/logo/png/full_colored_light.png" height="40" alt="bash_script logo"  />
   <img width="12" />
-  <img src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-black-and-white.png" height="40" alt="C++"  />
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png" height="40" alt="C++"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
