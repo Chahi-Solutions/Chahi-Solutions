@@ -1,12 +1,10 @@
 # ✤ About Me:
-👋 Hi, I’m @Ahmed Chahi<br>🎓 Computer Science student at University Cady Ayad & 1337 Rabat<br>🔐 Passionate about Ethical Hacking & always searching for incredible challenges<br>🌱 Currently learning #Bash, #Python, #C, and diving into #IoT<br>💬 Feel free to reach out if you’re into cybersecurity or coding!<br>⚡ Fun fact: I’m a hard worker, nickname "Paleman"
+🔹Hi, I’m @Ahmed Chahi<br>▸🎓Computer Science student at University Cady Ayad & 1337 Rabat<br>▹⌨Passionate about Ethical Hacking &always searching for incredible challenges<br>▸⌛Currently learning #Bash, #Python, #C, and diving into #IoT<br>▸✈Feel free to reach out if you’re into cybersecurity or coding!<br>▸⚡Fun fact: I’m a hard worker, nickname "Paleman"
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-chahi/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/23567880/ahmed-chahi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Cromion_3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmadachahi400@gmail.com) 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey What's up?</h1>
 
-###
+
 
 <div align="left">
   <img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" height="40" alt="bash_script logo"  />
@@ -27,14 +25,14 @@
 
 <img src="https://raw.githubusercontent.com/Chahi-Solutions/Chahi-Solutions/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
+## 🌐 Socials:
+<div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="21" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="21" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="35" height="21" alt="stackoverflow logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="21" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="35" height="21" alt="visualstudio logo"  />
 </div>
+
 
 ###
