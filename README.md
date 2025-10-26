@@ -23,7 +23,7 @@
   
 <img src="https://raw.githubusercontent.com/Chahi-Solutions/Chahi-Solutions/output/snake.svg" alt="Snake animation" />
 
-## 🌐 Socials:
+## 🌐 Socials: 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="21" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="21" alt="discord logo"  />
