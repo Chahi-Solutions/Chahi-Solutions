@@ -20,7 +20,7 @@
  
     
 <br clear="both">
-  
+   
 <img src="https://raw.githubusercontent.com/Chahi-Solutions/Chahi-Solutions/output/snake.svg" alt="Snake animation" />
 
 ## 🌐 Socials: 
