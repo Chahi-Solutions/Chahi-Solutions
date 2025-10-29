@@ -9,7 +9,7 @@
   <img width="12" /> 
   <img src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png" height="40" alt="C++"  />   
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40" alt="c logo "  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40" alt="c logo "  /> 
   <img width="12" />
   <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" height="40" alt="python"  />
   <img width="12" />
