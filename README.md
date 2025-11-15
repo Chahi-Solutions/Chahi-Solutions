@@ -1,4 +1,4 @@
-# ✤ About Me : 
+        # ✤ About Me : 
 🔹Hi, I’m @Ahmed Chahi<br>▸🎓Computer Science student at University Cady Ayad & 1337 <br>▹ ⌨Passionate about Ethical Hacking & always searching for incredible challenges<br>▸⌛Currently learning #Bash, #Python, #C, and diving into #IoT<br>▸✈Feel free to reach out if you’re into cybersecurity or coding!<br>▸⚡Fun fact: I’m a hard worker, nickname "Kavali" </>.    
 
 <h1 align="left">Hey What's up?</h1>             
@@ -15,7 +15,7 @@
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" height="40" alt="kali logo"  />
   <img width="12" />
-     
+       
 ###   
  
     
