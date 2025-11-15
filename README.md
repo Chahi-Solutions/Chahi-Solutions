@@ -3,7 +3,7 @@
 
 <h1 align="left">Hey What's up?</h1>           
           
-        
+         
 <div align="left">   
   <img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" height="40" alt="bash_script logo"  /> 
   <img width="12" />  
